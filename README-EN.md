@@ -8,7 +8,7 @@
 
 ## 📚Description
 
-This is a web project that I created as part of Origamid's "HTML and CSS for Beginners" course. During the course, I learned the essential fundamentals of web development, starting from scratch.
+This is a web project that I created as part of the "HTML and CSS for Beginners" course by Origamid. During the course, I learned the essential fundamentals of web development, starting from scratch.
 
 <br>
 
